@@ -1,0 +1,13 @@
+.navLink {
+    text-decoration: none;
+    color: white;
+}
+
+.navLink:hover {
+    color: white;
+    
+}
+
+.back-ground-nav {
+    background-color: #4863a7;
+}
