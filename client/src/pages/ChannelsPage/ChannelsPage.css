@@ -1,0 +1,11 @@
+.video {
+  display: flex;
+  justify-content: center;
+}
+
+.react-player {
+     width:480px;
+     height: 240px;
+}
+
+            
