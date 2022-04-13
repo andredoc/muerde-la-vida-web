@@ -1,10 +1,11 @@
 import ControlledCarousel from '../../components/ControlledCarrousel/ControlledCarrousel'
+import { Row, Col } from "react-bootstrap"
 
 const HomePage = () => {
     return (
-        <>
-            <ControlledCarousel />
-        </>
+        <div >
+            <ControlledCarousel />         
+        </div>
     )
 }
 

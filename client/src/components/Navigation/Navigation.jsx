@@ -6,7 +6,7 @@ function Navigation() {
 
     return (
         <>
-            <Navbar className="back-ground-nav" variant="dark" expand="lg" style={{ marginBottom: 30 }}>
+            <Navbar className="back-ground-nav" variant="dark" expand="lg">
                 <Container>
                     <NavLink to="/" className="navLink">
                         <Navbar.Brand as="span">Logo</Navbar.Brand>

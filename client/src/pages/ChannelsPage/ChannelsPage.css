@@ -1,11 +1,13 @@
 .video {
-  display: flex;
-  justify-content: center;
+    width: 100%;
+    height: 480px;
 }
 
 .react-player {
-     width:480px;
-     height: 240px;
+    display: contents;
 }
-
-            
+                                                  
+.card-position {
+    display:flex;
+    justify-content: center;
+}
