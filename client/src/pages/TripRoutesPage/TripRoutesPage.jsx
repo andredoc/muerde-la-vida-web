@@ -1,10 +1,10 @@
 import "./TripRoutesPage.css"
-import RouteAccordion from "../../components/RouteAccordion/RouteAccordion.jsx"
+import RouteDetails from "../../components/RouteDetails/RouteDetails.jsx"
 
 const TripRoutesPage = () => {      
     return (
         <>
-            <RouteAccordion />
+            <RouteDetails />
         </>
     )
 }
